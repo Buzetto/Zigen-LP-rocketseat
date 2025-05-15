@@ -11,7 +11,7 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-root {
+:root {
     --background-color: #09090B;
     --surface-color: #18181B;
     --stroke-color: #27272A;
@@ -25,9 +25,9 @@ root {
     --fw-md: 500;
     --fw-bold: 800;
 
-    --fs-small: 0.875rem;
+    --fs-sm: 0.875rem;
     --fs-base: 1rem;
-    --fs-large: 1.25rem;
+    --fs-lg: 1.25rem;
     --fs-xl: 1.5rem;
     --fs-2xl: 2.5rem;
 
